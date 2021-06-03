@@ -18,5 +18,5 @@ We shall be using keras and tensorflow libraries
 
 <h1><b> Results </h1></b>
 
-<img src="https://github.com/dhruvtalwar18/CNN-based-Traffic-Sign-Classification/blob/main/Results.png" title="Result 1">
+<img src="https://github.com/dhruvtalwar18/CNN-based-Traffic-Sign-Classification/blob/main/Results_1.png" title="Result 1">
 <p align="center">Detection Results</p>
