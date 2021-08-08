@@ -12,9 +12,10 @@ We shall be using keras and tensorflow libraries
 <h1><b> Implementation of Code </h1></b>
 
 1. Download and extract the dataset
-2. In the same directory clone the Main_model_train.py code and run it
+2. In the same directory clone the Main_model_train.py code ``` $ python Main_model_train.py ``` 
 3. The code will output the trained weights as "model_trained.p"
-4. Run Tester_code_Webcam.py and it will load the trained model and start the detection
+4. ``` $ python Tester_code_Webcam.py ``` 
+It will load the trained model and start the detection
 
 <h1><b> Results </h1></b>
 
